@@ -34,8 +34,6 @@ First, you can send a mail to buildforsdg@andela.com to indicate your interest, 
 2.  area two (e.g you want people to opt-in and try using your staging app at staging.project-name.com and report any bugs via a form)
 3.  area three (e.g here is the zoom link to our end-of sprint webinar, join and provide feedback as a stakeholder if you can)
 
-## Acknowledgements
-
 
 ## LICENSE
 MIT
